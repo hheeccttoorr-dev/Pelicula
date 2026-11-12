@@ -14,7 +14,7 @@ public class TestPelicula {
             System.out.println("Error: " + e.getMessage());
         }
 
-        pelicula.setDuracionMinutos(168);
+        pelicula.setDuracionMinutos(169);
 
         System.out.println(pelicula);
 
